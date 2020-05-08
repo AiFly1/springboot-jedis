@@ -8,5 +8,7 @@ public class SpringBootMailClass {
     public static void main(String[] args) {
         SpringApplication.run(SpringBootMailClass.class,args);
 
+
+        //这是master分支
     }
 }
